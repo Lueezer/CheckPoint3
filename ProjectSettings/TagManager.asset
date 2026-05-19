@@ -9,8 +9,7 @@ TagManager:
   - ParedeLateral1
   - ParedeLateral2
   - Ball
-  - ParedeCima
-  - ParedeBaixo
+  - Parede
   layers:
   - Default
   - TransparentFX
